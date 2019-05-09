@@ -17,7 +17,7 @@ public class TesteFibo {
     @Test
     public void Teste3() {
         Fibonacci f = new Fibonacci();
-        assertEquals(34L, f.fibo(9));
+        assertEquals(3L, f.fibo(9));
     }
     @Test
     public void Teste4() {
